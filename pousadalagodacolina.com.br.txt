@@ -1,0 +1,21 @@
+;A records
+pousadalagodacolina.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+autodiscover.pousadalagodacolina.com.br.	IN	1d	CNAME	autodiscover.email.locaweb.com.br.
+calendario.pousadalagodacolina.com.br.	IN	1d	CNAME	calendario.locaweb.com.br.
+imap.pousadalagodacolina.com.br.	IN	1d	CNAME	pop.pousadalagodacolina.com.br.
+mail.pousadalagodacolina.com.br.	IN	1d	CNAME	pop.pousadalagodacolina.com.br.
+pop.pousadalagodacolina.com.br.	IN	1d	CNAME	mail.ita.locaweb.com.br.
+smtp.pousadalagodacolina.com.br.	IN	1d	CNAME	pop.pousadalagodacolina.com.br.
+webmail.pousadalagodacolina.com.br.	IN	1d	CNAME	webmail-seguro.com.br.
+www.pousadalagodacolina.com.br.	IN	5m	CNAME	pousadalagodacolina.com.br.
+
+;TXT records
+pousadalagodacolina.com.br.	IN	1d	TXT	"v=spf1 include:_spf.locaweb.com.br ~all"
+
+;MX records
+pousadalagodacolina.com.br.	IN	1d	MX	20	mx.a.locaweb.com.br.
+pousadalagodacolina.com.br.	IN	1d	MX	20	mx.b.locaweb.com.br.
+pousadalagodacolina.com.br.	IN	1d	MX	10	mx.core.locaweb.com.br.
+pousadalagodacolina.com.br.	IN	1d	MX	20	mx.jk.locaweb.com.br.

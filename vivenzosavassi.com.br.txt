@@ -1,0 +1,8 @@
+;A records
+vivenzosavassi.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.vivenzosavassi.com.br.	IN	5m	CNAME	vivenzosavassi.com.br.
+
+;TXT records
+vivenzosavassi.com.br.	IN	1d	TXT	"google-site-verification=2oCGyQ2Z7ExfmtnYoWw9BFszCj79YOpY9xbcnlGjwEs"

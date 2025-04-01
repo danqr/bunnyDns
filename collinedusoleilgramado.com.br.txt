@@ -1,0 +1,9 @@
+;A records
+collinedusoleilgramado.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+ufuivcg36ros.collinedusoleilgramado.com.br.	IN	1d	CNAME	gv-h577fd3hfmwaoa.dv.googlehosted.com.
+www.collinedusoleilgramado.com.br.	IN	5m	CNAME	collinedusoleilgramado.com.br.
+
+;TXT records
+collinedusoleilgramado.com.br.	IN	1d	TXT	"google-site-verification=rWLLjJJ47mP3-slweCEHWOfqxypt-ec8PEzfVx5aJIA"

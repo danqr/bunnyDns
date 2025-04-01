@@ -1,0 +1,40 @@
+;A records
+checkinweb.com.br.	IN	604800	A	104.197.97.148
+checkinweb.com.br.	IN	5m	A	104.197.97.148
+checkinweb.com.br.	IN	5m	A	104.197.97.148
+checkinweb.com.br.	IN	5m	A	104.197.97.148
+checkinweb.com.br.	IN	5m	A	35.172.94.1
+checkinweb.com.br.	IN	5m	A	100.24.208.97
+
+;CNAME records
+*.site.checkinweb.com.br.	IN	5m	CNAME	s.multiscreensite.com.
+ajuda.checkinweb.com.br.	IN	5m	CNAME	ghs.google.com.
+autodiscover.checkinweb.com.br.	IN	5m	CNAME	autodiscover.email.locaweb.com.br.
+calendario.checkinweb.com.br.	IN	5m	CNAME	calendario.locaweb.com.br.
+cdn.checkinweb.com.br.	IN	604800	CNAME	checkinweb.b-cdn.net.
+cdn2.checkinweb.com.br.	IN	604800	CNAME	checkinweb2.b-cdn.net.
+ftp.checkinweb.com.br.	IN	5m	CNAME	ftp.uhserver.com.
+fz6nj75iedck.checkinweb.com.br.	IN	5m	CNAME	gv-h74sl6jcmbqoqb.dv.googlehosted.com.
+imap.checkinweb.com.br.	IN	5m	CNAME	pop.checkinweb.com.br.
+mail.checkinweb.com.br.	IN	5m	CNAME	pop.checkinweb.com.br.
+pop.checkinweb.com.br.	IN	5m	CNAME	mail.ita.locaweb.com.br.
+preview.checkinweb.com.br.	IN	5m	CNAME	m.previewmymobile.com.
+smtp.checkinweb.com.br.	IN	5m	CNAME	pop.checkinweb.com.br.
+ssh.checkinweb.com.br.	IN	5m	CNAME	ssh.uhserver.com.
+webmail.checkinweb.com.br.	IN	5m	CNAME	webmail-seguro.com.br.
+www.checkinweb.com.br.	IN	5m	CNAME	s.multiscreensite.com.
+
+;TXT records
+checkinweb.com.br.	IN	5m	TXT	"v=DMARC1; p=none; pct=100; rua=mailto:contato@editnet.com.br; ruf=mailto:contato@editnet.com.br"
+checkinweb.com.br.	IN	5m	TXT	"v=TLSRPTv1; rua=mailto:contato@editnet.com.br"
+checkinweb.com.br.	IN	5m	TXT	"v=spf1 include:_spf.locaweb.com.br include:spf.brevo.com mx ~all"
+checkinweb.com.br.	IN	5m	TXT	"brevo-code:ec7662e8ee3a5370f046c69715187641"
+checkinweb.com.br.	IN	5m	TXT	"proof01-06-23"
+checkinweb.com.br.	IN	5m	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx+OQNezncNtXmYZSQMpP565V5B2mW6kH4AxUC+Voy1+24BsHrhCnMmH1rE9OGkCKG92B/m/mV8XHob1zte8TQFCPkg0OobKqV4HN/93Z+HGzdh/bA1TTuBFSo98SbT6d4OXeVMkEXwZozlmWH8DrNfbOe7RuBDm1M0jBFYonUJ0p3gt+u9x2mwj4G03hk086/gQcyJ2lv3Lj/AqzbzDIso/nZKtAyesYTn1LVeyxVuLEhrQxDeofweVtEXdVWCIKQR+xPEr0h1jR9lZOuFh0rb9UOEn7dzZh0NhUaTz5rEQrgcQ3x+glEwfNvV2ysvbjgUwJ+7gvZEiN6OWLK8TtdQIDAQAB"
+checkinweb.com.br.	IN	5m	TXT	"k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDeMVIzrCa3T14JsNY0IRv5/2V1/v2itlviLQBwXsa7shBD6TrBkswsFUToPyMRWC9tbR/5ey0nRBH0ZVxp+lsmTxid2Y2z+FApQ6ra2VsXfbJP3HE6wAO0YTVEJt1TmeczhEd2Jiz/fcabIISgXEdSpTYJhb0ct0VJRxcg4c8c7wIDAQAB"
+
+;MX records
+checkinweb.com.br.	IN	5m	MX	20	mx.a.locaweb.com.br.
+checkinweb.com.br.	IN	5m	MX	20	mx.b.locaweb.com.br.
+checkinweb.com.br.	IN	5m	MX	10	mx.core.locaweb.com.br.
+checkinweb.com.br.	IN	5m	MX	20	mx.jk.locaweb.com.br.

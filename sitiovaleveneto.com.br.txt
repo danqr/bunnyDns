@@ -1,0 +1,8 @@
+;A records
+sitiovaleveneto.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.sitiovaleveneto.com.br.	IN	5m	CNAME	sitiovaleveneto.com.br.
+
+;TXT records
+sitiovaleveneto.com.br.	IN	1d	TXT	"google-site-verification=j-9WnY1B-JEEvC1y8i06mFIpzbH_CllIpBR2gxZs7Qs"

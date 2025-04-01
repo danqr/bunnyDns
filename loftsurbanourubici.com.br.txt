@@ -1,0 +1,5 @@
+;A records
+loftsurbanourubici.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.loftsurbanourubici.com.br.	IN	5m	CNAME	loftsurbanourubici.com.br.

@@ -1,0 +1,5 @@
+;A records
+hotelsaofrancisco.tur.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.hotelsaofrancisco.tur.br.	IN	5m	CNAME	hotelsaofrancisco.tur.br.

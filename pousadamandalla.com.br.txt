@@ -1,0 +1,8 @@
+;A records
+pousadamandalla.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadamandalla.com.br.	IN	5m	CNAME	pousadamandalla.com.br.
+
+;TXT records
+pousadamandalla.com.br.	IN	1d	TXT	"google-site-verification=vag-qXA9Bh_E1KdVkRrxrr386hvZBW1K52hf4ClWZ50"

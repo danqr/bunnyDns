@@ -1,0 +1,5 @@
+;A records
+pousadaasadeltasrn.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadaasadeltasrn.com.br.	IN	5m	CNAME	pousadaasadeltasrn.com.br.

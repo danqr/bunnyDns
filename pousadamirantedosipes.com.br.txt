@@ -1,0 +1,8 @@
+;A records
+pousadamirantedosipes.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadamirantedosipes.com.br.	IN	5m	CNAME	pousadamirantedosipes.com.br.
+
+;TXT records
+pousadamirantedosipes.com.br.	IN	1d	TXT	"google-site-verification=Q39ctOB75DUp9wKiBkV2o4EtVIkwhYNGteiTbnXvnj4"

@@ -1,0 +1,5 @@
+;A records
+pousadamorretes.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadamorretes.com.br.	IN	5m	CNAME	pousadamorretes.com.br.

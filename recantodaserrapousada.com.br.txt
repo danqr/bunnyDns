@@ -1,0 +1,8 @@
+;A records
+recantodaserrapousada.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.recantodaserrapousada.com.br.	IN	5m	CNAME	recantodaserrapousada.com.br.
+
+;TXT records
+recantodaserrapousada.com.br.	IN	1d	TXT	"google-site-verification=dtRzfh0GAehrCXDE_dqa1E3IXcgMgkjF7ZR6DsyTFXw"

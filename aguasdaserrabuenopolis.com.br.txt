@@ -1,0 +1,8 @@
+;A records
+aguasdaserrabuenopolis.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.aguasdaserrabuenopolis.com.br.	IN	5m	CNAME	aguasdaserrabuenopolis.com.br.
+
+;TXT records
+aguasdaserrabuenopolis.com.br.	IN	1d	TXT	"google-site-verification=Ti6UhyAoHKpYwrupK_Nmd3t2nhQhFsRDQSjNPf7-TjY"

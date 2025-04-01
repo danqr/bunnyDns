@@ -1,0 +1,5 @@
+;A records
+pousadaserra-verde.com.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadaserra-verde.com.	IN	5m	CNAME	pousadaserra-verde.com.

@@ -1,0 +1,12 @@
+;A records
+paisdasmaravilhas.com.br.	IN	5m	A	167.172.30.128
+paisdasmaravilhas.com.br.	IN	5m	A	187.17.111.96
+paisdasmaravilhas.com.br.	IN	5m	A	104.197.97.148
+paisdasmaravilhas.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+*.ny.paisdasmaravilhas.com.br.	IN	5m	CNAME	ny.paisdasmaravilhas.com.br.
+*.rio.paisdasmaravilhas.com.br.	IN	5m	CNAME	rio.paisdasmaravilhas.com.br.
+*.siteteste.paisdasmaravilhas.com.br.	IN	5m	CNAME	siteteste.paisdasmaravilhas.com.br.
+www.paisdasmaravilhas.com.br.	IN	5m	CNAME	paisdasmaravilhas.com.br.
+www2.paisdasmaravilhas.com.br.	IN	5m	CNAME	paisdasmaravilhas.com.br.

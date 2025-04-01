@@ -1,0 +1,8 @@
+;A records
+opicodocipo.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.opicodocipo.com.br.	IN	5m	CNAME	opicodocipo.com.br.
+
+;TXT records
+opicodocipo.com.br.	IN	1d	TXT	"google-site-verification=amDB5JEYa_5Ybdv7VzCejX_YkwrQ8KFhTfCZu2_HwaU"

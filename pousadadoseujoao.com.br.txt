@@ -1,0 +1,8 @@
+;A records
+pousadadoseujoao.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadadoseujoao.com.br.	IN	1d	CNAME	pousadadoseujoao.com.br.
+
+;TXT records
+pousadadoseujoao.com.br.	IN	1d	TXT	"google-site-verification=TAWGlvKLErzNNSVPg9eJnlJbFjkQzmaCM4wasD5mamc"

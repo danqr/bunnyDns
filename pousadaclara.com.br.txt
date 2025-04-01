@@ -1,0 +1,21 @@
+;A records
+pousadaclara.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+41887418.pousadaclara.com.br.	IN	1d	CNAME	google.com.
+smtp.pousadaclara.com.br.	IN	1d	CNAME	smtp.google.com.
+www.pousadaclara.com.br.	IN	5m	CNAME	pousadaclara.com.br.
+
+;TXT records
+pousadaclara.com.br.	IN	1d	TXT	"v=DMARC1; p=none; rua=mailto:dmarc-reports@pousadaclara.com.br; ruf=mailto:dmarc-reports@pousadaclara.com.br; fo=1"
+pousadaclara.com.br.	IN	1d	TXT	"v=spf1 include:_spf.google.com ~all"
+pousadaclara.com.br.	IN	1d	TXT	"google-gws-recovery-domain-verification=41887418"
+
+;MX records
+pousadaclara.com.br.	IN	1d	MX	10	aspmx.l.google.com.
+pousadaclara.com.br.	IN	1d	MX	20	alt1.aspmx.l.google.com.
+pousadaclara.com.br.	IN	1d	MX	20	alt2.aspmx.l.google.com.
+pousadaclara.com.br.	IN	1d	MX	30	aspmx2.googlemail.com.
+pousadaclara.com.br.	IN	1d	MX	30	aspmx3.googlemail.com.
+pousadaclara.com.br.	IN	1d	MX	30	aspmx4.googlemail.com.
+pousadaclara.com.br.	IN	1d	MX	30	aspmx5.googlemail.com.

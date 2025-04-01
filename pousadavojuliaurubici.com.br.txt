@@ -1,0 +1,9 @@
+;A records
+pousadavojuliaurubici.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+u2h5ecobhal3.pousadavojuliaurubici.com.br.	IN	1d	CNAME	pousadavojuliaurubici.com.br.
+www.pousadavojuliaurubici.com.br.	IN	5m	CNAME	pousadavojuliaurubici.com.br.
+
+;TXT records
+pousadavojuliaurubici.com.br.	IN	1d	TXT	"google-site-verification=-Hxv_mY9qFKCrEBk1wQ1296QJeGYMebq1pkYZLbQPck"

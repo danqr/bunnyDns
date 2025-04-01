@@ -1,0 +1,23 @@
+;A records
+jardimdasbromeliasvilas.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+_domainconnect.jardimdasbromeliasvilas.com.br.	IN	1d	CNAME	_domainconnect.gd.domaincontrol.com.
+autodiscover.jardimdasbromeliasvilas.com.br.	IN	3600	CNAME	autodiscover.email.locaweb.com.br.
+calendario.jardimdasbromeliasvilas.com.br.	IN	3600	CNAME	calendario.locaweb.com.br.
+imap.jardimdasbromeliasvilas.com.br.	IN	3600	CNAME	pop.jardimdasbromeliasvilas.com.br.
+mail.jardimdasbromeliasvilas.com.br.	IN	3600	CNAME	pop.jardimdasbromeliasvilas.com.br.
+pop.jardimdasbromeliasvilas.com.br.	IN	3600	CNAME	mail.ita.locaweb.com.br.
+smtp.jardimdasbromeliasvilas.com.br.	IN	3600	CNAME	pop.jardimdasbromeliasvilas.com.br.
+webmail.jardimdasbromeliasvilas.com.br.	IN	3600	CNAME	webmail-seguro.com.br.
+www.jardimdasbromeliasvilas.com.br.	IN	1d	CNAME	jardimdasbromeliasvilas.com.br.
+
+;TXT records
+jardimdasbromeliasvilas.com.br.	IN	3600	TXT	"google-site-verification=5vty8JCnDmkFofy5vUqNS9DbwVm2xCaDBh00oPWKtaw"""
+jardimdasbromeliasvilas.com.br.	IN	3600	TXT	"v=spf1include:_spf.locaweb.com.br?all"""
+
+;MX records
+jardimdasbromeliasvilas.com.br.	IN	3600	MX	10	mx.core.locaweb.com.br.
+jardimdasbromeliasvilas.com.br.	IN	3600	MX	20	mx.b.locaweb.com.br.
+jardimdasbromeliasvilas.com.br.	IN	3600	MX	20	mx.jk.locaweb.com.br.
+jardimdasbromeliasvilas.com.br.	IN	3600	MX	20	mx.a.locaweb.com.br.

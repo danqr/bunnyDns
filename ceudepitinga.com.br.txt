@@ -1,0 +1,5 @@
+;A records
+ceudepitinga.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.ceudepitinga.com.br.	IN	5m	CNAME	ceudepitinga.com.br.

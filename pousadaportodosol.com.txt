@@ -1,0 +1,5 @@
+;A records
+pousadaportodosol.com.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadaportodosol.com.	IN	5m	CNAME	pousadaportodosol.com.

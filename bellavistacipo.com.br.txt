@@ -1,0 +1,8 @@
+;A records
+bellavistacipo.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.bellavistacipo.com.br.	IN	5m	CNAME	bellavistacipo.com.br.
+
+;TXT records
+bellavistacipo.com.br.	IN	1d	TXT	"google-site-verification=kggerqdAmI62a69oZMW9Sjmza4ZiBildupoJ_aalquk"

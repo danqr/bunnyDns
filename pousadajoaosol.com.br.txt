@@ -1,0 +1,21 @@
+;A records
+pousadajoaosol.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+autodiscover.pousadajoaosol.com.br.	IN	1d	CNAME	autodiscover.email.locaweb.com.br.
+calendario.pousadajoaosol.com.br.	IN	1d	CNAME	calendario.locaweb.com.br.
+imap.pousadajoaosol.com.br.	IN	1d	CNAME	pop.pousadajoaosol.com.br.
+mail.pousadajoaosol.com.br.	IN	1d	CNAME	pop.pousadajoaosol.com.br.
+pop.pousadajoaosol.com.br.	IN	1d	CNAME	mail.ita.locaweb.com.br.
+smtp.pousadajoaosol.com.br.	IN	1d	CNAME	pop.pousadajoaosol.com.br.
+webmail.pousadajoaosol.com.br.	IN	1d	CNAME	webmail-seguro.com.br.
+www.pousadajoaosol.com.br.	IN	5m	CNAME	pousadajoaosol.com.br.
+
+;TXT records
+pousadajoaosol.com.br.	IN	1d	TXT	"v=spf1 include:_spf.locaweb.com.br ~all"
+
+;MX records
+pousadajoaosol.com.br.	IN	1d	MX	20	mx.a.locaweb.com.br.
+pousadajoaosol.com.br.	IN	1d	MX	20	mx.b.locaweb.com.br.
+pousadajoaosol.com.br.	IN	1d	MX	10	mx.core.locaweb.com.br.
+pousadajoaosol.com.br.	IN	1d	MX	20	mx.jk.locaweb.com.br.

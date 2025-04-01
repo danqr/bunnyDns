@@ -1,0 +1,5 @@
+;A records
+carrancasrodaviva.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.carrancasrodaviva.com.br.	IN	5m	CNAME	carrancasrodaviva.com.br.

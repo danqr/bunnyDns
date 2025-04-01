@@ -1,0 +1,21 @@
+;A records
+cumurumare.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+41281845.cumurumare.com.br.	IN	1d	CNAME	google.com.
+smtp.cumurumare.com.br.	IN	1d	CNAME	smtp.google.com.
+www.cumurumare.com.br.	IN	5m	CNAME	cumurumare.com.br.
+
+;TXT records
+cumurumare.com.br.	IN	1d	TXT	"v=DMARC1; p=none; rua=mailto:dmarc-reports@cumurumare.com.br; ruf=mailto:dmarc-reports@cumurumare.com.br; fo=1"
+cumurumare.com.br.	IN	1d	TXT	"google-gws-recovery-domain-verification=41281845"
+cumurumare.com.br.	IN	1d	TXT	"v=spf1 include:_spf.google.com ~all"
+
+;MX records
+cumurumare.com.br.	IN	1d	MX	10	aspmx.l.google.com.
+cumurumare.com.br.	IN	1d	MX	20	alt1.aspmx.l.google.com.
+cumurumare.com.br.	IN	1d	MX	20	alt2.aspmx.l.google.com.
+cumurumare.com.br.	IN	1d	MX	30	aspmx2.googlemail.com.
+cumurumare.com.br.	IN	1d	MX	30	aspmx3.googlemail.com.
+cumurumare.com.br.	IN	1d	MX	30	aspmx4.googlemail.com.
+cumurumare.com.br.	IN	1d	MX	30	aspmx5.googlemail.com.

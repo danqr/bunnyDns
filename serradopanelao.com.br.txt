@@ -1,0 +1,21 @@
+;A records
+serradopanelao.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+autodiscover.serradopanelao.com.br.	IN	1d	CNAME	autodiscover.email.locaweb.com.br.
+calendario.serradopanelao.com.br.	IN	1d	CNAME	calendario.locaweb.com.br.
+imap.serradopanelao.com.br.	IN	1d	CNAME	pop.serradopanelao.com.br.
+mail.serradopanelao.com.br.	IN	1d	CNAME	pop.serradopanelao.com.br.
+pop.serradopanelao.com.br.	IN	1d	CNAME	mail.ita.locaweb.com.br.
+smtp.serradopanelao.com.br.	IN	1d	CNAME	pop.serradopanelao.com.br.
+webmail.serradopanelao.com.br.	IN	1d	CNAME	webmail-seguro.com.br.
+www.serradopanelao.com.br.	IN	5m	CNAME	serradopanelao.com.br.
+
+;TXT records
+serradopanelao.com.br.	IN	1d	TXT	"v=spf1 include:_spf.locaweb.com.br ~all"
+
+;MX records
+serradopanelao.com.br.	IN	1d	MX	20	mx.a.locaweb.com.br.
+serradopanelao.com.br.	IN	1d	MX	20	mx.b.locaweb.com.br.
+serradopanelao.com.br.	IN	1d	MX	10	mx.core.locaweb.com.br.
+serradopanelao.com.br.	IN	1d	MX	20	mx.jk.locaweb.com.br.

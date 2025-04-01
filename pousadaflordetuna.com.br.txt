@@ -1,0 +1,5 @@
+;A records
+pousadaflordetuna.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadaflordetuna.com.br.	IN	5m	CNAME	pousadaflordetuna.com.br.

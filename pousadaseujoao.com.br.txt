@@ -1,0 +1,8 @@
+;A records
+pousadaseujoao.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadaseujoao.com.br.	IN	5m	CNAME	pousadaseujoao.com.br.
+
+;TXT records
+pousadaseujoao.com.br.	IN	1d	TXT	"facebook-domain-verification=v4g2zg8g0597ovgv4ickrssfk8l9g6"

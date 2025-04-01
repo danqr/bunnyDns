@@ -1,0 +1,5 @@
+;A records
+ecopousadariourubici.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.ecopousadariourubici.com.br.	IN	5m	CNAME	ecopousadariourubici.com.br.

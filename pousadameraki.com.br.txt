@@ -1,0 +1,8 @@
+;A records
+pousadameraki.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadameraki.com.br.	IN	5m	CNAME	pousadameraki.com.br.
+
+;TXT records
+pousadameraki.com.br.	IN	1d	TXT	"google-site-verification=zR7gr_ncj2MK3QDd-4OeCfdDlE69DtmZhRdhqhKpYAQ"

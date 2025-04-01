@@ -1,0 +1,5 @@
+;A records
+pousadacabanasdomona.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadacabanasdomona.com.br.	IN	5m	CNAME	pousadacabanasdomona.com.br.

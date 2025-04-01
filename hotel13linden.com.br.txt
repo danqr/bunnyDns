@@ -1,0 +1,12 @@
+;A records
+hotel13linden.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.hotel13linden.com.br.	IN	5m	CNAME	hotel13linden.com.br.
+
+;TXT records
+hotel13linden.com.br.	IN	1d	TXT	"v=spf1 a:mx.studioalpha.com.br a:studioalpha.com.br include:studioalpha.com.br -all"
+
+;MX records
+hotel13linden.com.br.	IN	1d	MX	1	usmx.studioalpha.com.br.
+hotel13linden.com.br.	IN	1d	MX	10	mx.studioalpha.com.br.

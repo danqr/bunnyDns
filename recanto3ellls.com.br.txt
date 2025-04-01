@@ -1,0 +1,5 @@
+;A records
+recanto3ellls.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.recanto3ellls.com.br.	IN	5m	CNAME	recanto3ellls.com.br.

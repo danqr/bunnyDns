@@ -1,0 +1,17 @@
+;A records
+pousadacipoprata.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadacipoprata.com.br.	IN	5m	CNAME	pousadacipoprata.com.br.
+zac81748168.pousadacipoprata.com.br.	IN	1d	CNAME	domain.zoho.com.
+zb15403297.pousadacipoprata.com.br.	IN	1d	CNAME	zmverify.zoho.com.
+
+;TXT records
+pousadacipoprata.com.br.	IN	1d	TXT	"v=spf1 include:zoho.com ~all"
+pousadacipoprata.com.br.	IN	1d	TXT	"google-site-verification=7nMPB7dPl1-8Ujg4dI6IEccavRWINUbQHh4wCcAkZvM"
+pousadacipoprata.com.br.	IN	1d	TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCebpzLVRvPHlRatSt/DhnGXtKaOB0sckoBvjIwsTrCep8HoONqf850AQvfmAlgZzrPvoPtvBN28qu5Ms3uJs2rlerMLKF+N2LmKsU5/JwizHh4ZXuiVyujS6ESR/zHAoPWlDG3/Gw3Gf5JSZhCCE0xehA6iBvy7u8A2e9CFaE7SwIDAQAB"
+
+;MX records
+pousadacipoprata.com.br.	IN	1d	MX	10	mx.zoho.com.
+pousadacipoprata.com.br.	IN	1d	MX	20	mx2.zoho.com.
+pousadacipoprata.com.br.	IN	1d	MX	50	mx3.zoho.com.

@@ -1,0 +1,8 @@
+;A records
+raposochale.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.raposochale.com.br.	IN	5m	CNAME	raposochale.com.br.
+
+;TXT records
+raposochale.com.br.	IN	1d	TXT	"google-site-verification=YwzQe1He-uwujsLkvjjrWd5S8TLyaLW9Q9Gg286lAtI"

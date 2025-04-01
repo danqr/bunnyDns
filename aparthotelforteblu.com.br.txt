@@ -1,0 +1,8 @@
+;A records
+aparthotelforteblu.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.aparthotelforteblu.com.br.	IN	5m	CNAME	aparthotelforteblu.com.br.
+
+;TXT records
+aparthotelforteblu.com.br.	IN	1d	TXT	"google-site-verification=kJY5ZFWckj7zS_WACYDnaepXBEEJT0HgxRPQsVgWg_I"

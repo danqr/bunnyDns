@@ -1,0 +1,12 @@
+;A records
+fazendamonjolos.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.fazendamonjolos.com.br.	IN	5m	CNAME	fazendamonjolos.com.br.
+
+;TXT records
+fazendamonjolos.com.br.	IN	18000	TXT	"v=spf1 mx a:smtp.task.com.br include:task.com.br -all"
+
+;MX records
+fazendamonjolos.com.br.	IN	3600	MX	1	mx1.task.com.br.
+fazendamonjolos.com.br.	IN	3600	MX	100	mx3.task.com.br.

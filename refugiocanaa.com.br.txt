@@ -1,0 +1,21 @@
+;A records
+refugiocanaa.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+autodiscover.refugiocanaa.com.br.	IN	1d	CNAME	autodiscover.email.locaweb.com.br.
+calendario.refugiocanaa.com.br.	IN	1d	CNAME	calendario.locaweb.com.br.
+imap.refugiocanaa.com.br.	IN	1d	CNAME	pop.refugiocanaa.com.br.
+mail.refugiocanaa.com.br.	IN	1d	CNAME	pop.refugiocanaa.com.br.
+pop.refugiocanaa.com.br.	IN	1d	CNAME	mail.ita.locaweb.com.br.
+smtp.refugiocanaa.com.br.	IN	1d	CNAME	pop.refugiocanaa.com.br.
+webmail.refugiocanaa.com.br.	IN	1d	CNAME	webmail-seguro.com.br.
+www.refugiocanaa.com.br.	IN	5m	CNAME	refugiocanaa.com.br.
+
+;TXT records
+refugiocanaa.com.br.	IN	1d	TXT	"v=spf1 include:_spf.locaweb.com.br ~all"
+
+;MX records
+refugiocanaa.com.br.	IN	1d	MX	20	mx.a.locaweb.com.br.
+refugiocanaa.com.br.	IN	1d	MX	20	mx.b.locaweb.com.br.
+refugiocanaa.com.br.	IN	1d	MX	10	mx.core.locaweb.com.br.
+refugiocanaa.com.br.	IN	1d	MX	20	mx.jk.locaweb.com.br.

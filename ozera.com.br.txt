@@ -1,0 +1,18 @@
+;A records
+ozera.com.br.	IN	1d	A	192.185.221.178
+ozera.com.br.	IN	1d	A	192.185.221.178
+ozera.com.br.	IN	1d	A	192.185.221.178
+ozera.com.br.	IN	1d	A	192.185.221.178
+ozera.com.br.	IN	5m	A	104.197.97.148
+ozera.com.br.	IN	1d	A	192.185.221.178
+
+;CNAME records
+www.ozera.com.br.	IN	5m	CNAME	ozera.com.br.
+
+;TXT records
+ozera.com.br.	IN	1d	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+ozera.com.br.	IN	1d	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+ozera.com.br.	IN	1d	TXT	"google-site-verification=5hFuqHypvF4ww3zWYBhEz8342nC-t8WYh8UzRxR38l8"
+
+;MX records
+ozera.com.br.	IN	1d	MX	0	_dc-mx.a1d6c2f40b8a.ozera.com.br.

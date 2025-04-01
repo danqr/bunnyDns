@@ -1,0 +1,5 @@
+;A records
+minifazendapark.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.minifazendapark.com.br.	IN	5m	CNAME	minifazendapark.com.br.

@@ -1,0 +1,8 @@
+;A records
+pousadasaltosete.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadasaltosete.com.br.	IN	5m	CNAME	pousadasaltosete.com.br.
+
+;TXT records
+pousadasaltosete.com.br.	IN	1d	TXT	"google-site-verification=k7smKGBR23-iHA34mE1VdFSicm_CDAdH5x8YX0dRKik"

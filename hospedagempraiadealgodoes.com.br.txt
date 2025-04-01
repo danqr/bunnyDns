@@ -1,0 +1,9 @@
+;A records
+hospedagempraiadealgodoes.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+_domainconnect.hospedagempraiadealgodoes.com.br.	IN	3600	CNAME	_domainconnect.gd.domaincontrol.com.
+www.hospedagempraiadealgodoes.com.br.	IN	5m	CNAME	hospedagempraiadealgodoes.com.br.
+
+;TXT records
+hospedagempraiadealgodoes.com.br.	IN	3600	TXT	"google-site-verification=x75AJb6PjZ27AAbG5ZLpB6fBb3LhZc2Pl30uatGcw6k"

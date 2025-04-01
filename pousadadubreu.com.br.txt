@@ -1,0 +1,5 @@
+;A records
+pousadadubreu.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadadubreu.com.br.	IN	5m	CNAME	pousadadubreu.com.br.

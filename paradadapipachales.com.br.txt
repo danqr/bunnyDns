@@ -1,0 +1,5 @@
+;A records
+paradadapipachales.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.paradadapipachales.com.br.	IN	5m	CNAME	paradadapipachales.com.br.

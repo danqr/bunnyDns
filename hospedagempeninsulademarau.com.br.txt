@@ -1,0 +1,9 @@
+;A records
+hospedagempeninsulademarau.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+_domainconnect.hospedagempeninsulademarau.com.br.	IN	3600	CNAME	_domainconnect.gd.domaincontrol.com.
+www.hospedagempeninsulademarau.com.br.	IN	5m	CNAME	hospedagempeninsulademarau.com.br.
+
+;TXT records
+hospedagempeninsulademarau.com.br.	IN	3600	TXT	"google-site-verification=TCerV2pM7jsqE_yqXnSBWk77IPuMAWqXBmdn6m6WH4I"

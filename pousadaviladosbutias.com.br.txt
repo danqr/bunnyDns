@@ -1,0 +1,5 @@
+;A records
+pousadaviladosbutias.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.pousadaviladosbutias.com.br.	IN	5m	CNAME	pousadaviladosbutias.com.br.

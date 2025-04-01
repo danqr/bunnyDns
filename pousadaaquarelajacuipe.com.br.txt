@@ -1,0 +1,21 @@
+;A records
+pousadaaquarelajacuipe.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+autodiscover.pousadaaquarelajacuipe.com.br.	IN	1d	CNAME	autodiscover.email.locaweb.com.br.
+calendario.pousadaaquarelajacuipe.com.br.	IN	1d	CNAME	calendario.locaweb.com.br.
+imap.pousadaaquarelajacuipe.com.br.	IN	1d	CNAME	pop.pousadaaquarelajacuipe.com.br.
+mail.pousadaaquarelajacuipe.com.br.	IN	1d	CNAME	pop.pousadaaquarelajacuipe.com.br.
+pop.pousadaaquarelajacuipe.com.br.	IN	1d	CNAME	mail.ita.locaweb.com.br.
+smtp.pousadaaquarelajacuipe.com.br.	IN	1d	CNAME	pop.pousadaaquarelajacuipe.com.br.
+webmail.pousadaaquarelajacuipe.com.br.	IN	1d	CNAME	webmail-seguro.com.br.
+www.pousadaaquarelajacuipe.com.br.	IN	5m	CNAME	pousadaaquarelajacuipe.com.br.
+
+;TXT records
+pousadaaquarelajacuipe.com.br.	IN	1d	TXT	"v=spf1 include:_spf.locaweb.com.br ~all"
+
+;MX records
+pousadaaquarelajacuipe.com.br.	IN	1d	MX	20	mx.a.locaweb.com.br.
+pousadaaquarelajacuipe.com.br.	IN	1d	MX	20	mx.b.locaweb.com.br.
+pousadaaquarelajacuipe.com.br.	IN	1d	MX	10	mx.core.locaweb.com.br.
+pousadaaquarelajacuipe.com.br.	IN	1d	MX	20	mx.jk.locaweb.com.br.

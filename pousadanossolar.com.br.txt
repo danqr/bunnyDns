@@ -1,0 +1,24 @@
+;A records
+pousadanossolar.com.br.	IN	1d	A	191.6.222.17
+pousadanossolar.com.br.	IN	1d	A	191.6.223.2
+pousadanossolar.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+autoconfig.pousadanossolar.com.br.	IN	1d	CNAME	autoconfig.kinghost.net.
+autodiscover.pousadanossolar.com.br.	IN	1d	CNAME	autoconfig.kinghost.net.
+ftp.pousadanossolar.com.br.	IN	1d	CNAME	web10f112.kinghost.net.
+imap.pousadanossolar.com.br.	IN	1d	CNAME	imap-vip.kinghost.net.
+mail.pousadanossolar.com.br.	IN	1d	CNAME	smtp-vip.kinghost.net.
+mssql.pousadanossolar.com.br.	IN	1d	CNAME	mssql08-farm22.kinghost.net.
+mysql.pousadanossolar.com.br.	IN	1d	CNAME	mysql26-farm10.kinghost.net.
+pop.pousadanossolar.com.br.	IN	1d	CNAME	imap-vip.kinghost.net.
+smtp.pousadanossolar.com.br.	IN	1d	CNAME	smtp-vip.kinghost.net.
+webmail.pousadanossolar.com.br.	IN	1d	CNAME	webmail-vip.kinghost.net.
+www.pousadanossolar.com.br.	IN	1d	CNAME	pousadanossolar.com.br.
+
+;TXT records
+pousadanossolar.com.br.	IN	1d	TXT	"v=spf1 include:_spf.kinghost.net -all"
+
+;MX records
+pousadanossolar.com.br.	IN	1d	MX	5	mx-vip-01.kinghost.net.
+pousadanossolar.com.br.	IN	1d	MX	5	mx-vip-02.kinghost.net.

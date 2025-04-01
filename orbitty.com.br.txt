@@ -1,0 +1,29 @@
+;A records
+orbitty.com.br.	IN	1	A	212.28.187.19
+orbitty.com.br.	IN	1	A	212.28.187.19
+orbitty.com.br.	IN	1	A	212.28.187.19
+orbitty.com.br.	IN	1	A	212.28.187.19
+orbitty.com.br.	IN	3600	A	100.24.208.97
+orbitty.com.br.	IN	3600	A	35.172.94.1
+
+;CNAME records
+autodiscover.orbitty.com.br.	IN	1	CNAME	autodiscover.email.locaweb.com.br.
+calendario.orbitty.com.br.	IN	1	CNAME	calendario.locaweb.com.br.
+imap.orbitty.com.br.	IN	1	CNAME	pop.orbitty.com.br.
+mail.orbitty.com.br.	IN	1	CNAME	pop.orbitty.com.br.
+pop.orbitty.com.br.	IN	1	CNAME	mail.ita.locaweb.com.br.
+s1._domainkey.orbitty.com.br.	IN	1	CNAME	s1.domainkey.u44335553.wl054.sendgrid.net.
+s2._domainkey.orbitty.com.br.	IN	1	CNAME	s2.domainkey.u44335553.wl054.sendgrid.net.
+smtp.orbitty.com.br.	IN	1	CNAME	pop.orbitty.com.br.
+webmail.orbitty.com.br.	IN	1	CNAME	webmail-seguro.com.br.
+www.orbitty.com.br.	IN	3600	CNAME	s.multiscreensite.com.
+
+;TXT records
+orbitty.com.br.	IN	1	TXT	"v=DMARC1; p=none;"
+orbitty.com.br.	IN	1	TXT	"v=spf1 include:_spf.locaweb.com.br -all"
+
+;MX records
+orbitty.com.br.	IN	1	MX	20	mx.a.locaweb.com.br.
+orbitty.com.br.	IN	1	MX	10	mx.core.locaweb.com.br.
+orbitty.com.br.	IN	1	MX	20	mx.b.locaweb.com.br.
+orbitty.com.br.	IN	1	MX	20	mx.jk.locaweb.com.br.

@@ -1,0 +1,5 @@
+;A records
+estancianazari.com.br.	IN	5m	A	104.197.97.148
+
+;CNAME records
+www.estancianazari.com.br.	IN	5m	CNAME	estancianazari.com.br.
