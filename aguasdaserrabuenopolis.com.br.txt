@@ -6,4 +6,3 @@ www.aguasdaserrabuenopolis.com.br.	IN	5m	CNAME	aguasdaserrabuenopolis.com.br.
 
 ;TXT records
 aguasdaserrabuenopolis.com.br.	IN	1d	TXT	"google-site-verification=Ti6UhyAoHKpYwrupK_Nmd3t2nhQhFsRDQSjNPf7-TjY"
-aguasdaserrabuenopolis.com.br.	IN	5m	TXT	"teste109"
