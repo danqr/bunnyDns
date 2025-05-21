@@ -1,5 +1,44 @@
 ;A records
+hotelsaofrancisco.tur.br.	IN	14400	A	192.185.213.73
+hotelsaofrancisco.tur.br.	IN	14400	A	192.185.213.73
+hotelsaofrancisco.tur.br.	IN	14400	A	192.185.213.73
+hotelsaofrancisco.tur.br.	IN	14400	A	192.185.213.73
 hotelsaofrancisco.tur.br.	IN	5m	A	104.197.97.148
+hotelsaofrancisco.tur.br.	IN	14400	A	127.0.0.1
+hotelsaofrancisco.tur.br.	IN	14400	A	192.185.213.73
+hotelsaofrancisco.tur.br.	IN	14400	A	192.185.213.73
+hotelsaofrancisco.tur.br.	IN	14400	A	192.185.213.73
 
 ;CNAME records
+cpanel.hotelsaofrancisco.tur.br.	IN	14400	CNAME	hotelsaofrancisco.tur.br.
+ftp.hotelsaofrancisco.tur.br.	IN	14400	CNAME	hotelsaofrancisco.tur.br.
+webmail.hotelsaofrancisco.tur.br.	IN	14400	CNAME	mail.hotelsaofrancisco.tur.br.
 www.hotelsaofrancisco.tur.br.	IN	5m	CNAME	hotelsaofrancisco.tur.br.
+
+;TXT records
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"jKkan1o9MEzNygroB9lzvGR5S7CFCtEcOFFJQU9hUF8"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"n5vScAeBWh7_1vLLPtWjXkyJ4ssRZysnAgwxhhqxb1Y"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"cnsi6DzTj4jGAbrerCAtXBqWMLB-iQHWY8j9BZjz-so"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"-4SxIENvm6xXt76NXqxsGwo9jmcDP9sAXvcx2wm4Ics"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"g98eJME1KtOrbi67LCY6iuSGkNc9lyLCxURLYwy9FOs"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"mGOUR-_8mlujcIPDJkEVKLecjeaTLu8-WM3w-oUkx4Y"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"EM42I7G_f16wWk_9Ab4Rgx6sboBbzxCJksguq9iqmy4"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"eA05oUYHuVrEk2xhuuX3h4-ULHIan6cTOsDUfG9knBU"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"path=/"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"path=/"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"path=/"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"path=/"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"_cpanel-dcv-test-record=Eqazq59unnV6UX_8mrtqghuBQQgKk3HWEfBs6QaoFcUmP24SzAtmx4H4aLgPmMZQ"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv+otHBtje2nCa7oZ6yAfFd6JchROiraV+vVXnAfeSFokaXTyBPBHmccEHCb+6RiOnjv78yA+rQokeDioUm2z/ceESuW5k3G9RhOrPO+HBH8/QYWqMjL/BtG7Qx07qcySct8kYOamU0F+378+EBudOCetjGFnXqGcen+/l3CMuB9dKfLWHKrIvwhP6V6FYuKOdxJnd6b1oGFInrJa5EefzU3FKrje5jj70nMhR6HsojIrd/yDYYyck9OggDQwnlKAn2MUCIHWbOA/MgLyZZ5cU/HtgWrp9TfPvORegDIU9Hbab3GutakiTFCBPwhAq+k7SiC/awZgv+mL7gwPG67CjwIDAQAB;"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+hotelsaofrancisco.tur.br.	IN	14400	TXT	"google-site-verification=SvNs6QeX-NVOjP9tFz5ydStcfMQrnKQfRcr-6pvBqlE"
+
+;MX records
+hotelsaofrancisco.tur.br.	IN	14400	MX	0	mail.hotelsaofrancisco.tur.br.
+
+;SRV records
+_autodiscover._tcp.hotelsaofrancisco.tur.br.	IN	14400	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+_caldav._tcp.hotelsaofrancisco.tur.br.	IN	14400	SRV	0	0	2079	br82.hostgator.com.br.
+_caldavs._tcp.hotelsaofrancisco.tur.br.	IN	14400	SRV	0	0	2080	br82.hostgator.com.br.
+_carddav._tcp.hotelsaofrancisco.tur.br.	IN	14400	SRV	0	0	2079	br82.hostgator.com.br.
+_carddavs._tcp.hotelsaofrancisco.tur.br.	IN	14400	SRV	0	0	2080	br82.hostgator.com.br.

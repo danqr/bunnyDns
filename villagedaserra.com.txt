@@ -2,4 +2,30 @@
 villagedaserra.com.	IN	5m	A	104.197.97.148
 
 ;CNAME records
+autodiscover.villagedaserra.com.	IN	3600	CNAME	autodiscover.email.locaweb.com.br.
+calendario.villagedaserra.com.	IN	3600	CNAME	calendario.locaweb.com.br.
+ftp.villagedaserra.com.	IN	3600	CNAME	villagedaserra.com.
+gerenciador.villagedaserra.com.	IN	3600	CNAME	gerenciador.locaweb.com.br.
+mail.villagedaserra.com.	IN	3600	CNAME	pop.villagedaserra.com.
+ns1.villagedaserra.com.	IN	3600	CNAME	ns1.locaweb.com.br.
+ns2.villagedaserra.com.	IN	3600	CNAME	ns2.locaweb.com.br.
+ns3.villagedaserra.com.	IN	3600	CNAME	ns3.locaweb.com.br.
+painel.villagedaserra.com.	IN	3600	CNAME	painel.locaweb.com.br.
+pda.villagedaserra.com.	IN	3600	CNAME	pop.villagedaserra.com.
+pop.villagedaserra.com.	IN	3600	CNAME	mail.b.locamail.com.br.
+relatorio.villagedaserra.com.	IN	3600	CNAME	relatorio.locaweb.com.br.
+relatorios.villagedaserra.com.	IN	3600	CNAME	relatorio.locaweb.com.br.
+smtp.villagedaserra.com.	IN	3600	CNAME	pop.villagedaserra.com.
+wap.villagedaserra.com.	IN	3600	CNAME	villagedaserra.com.
+webmail.villagedaserra.com.	IN	3600	CNAME	webmail-seguro.com.br.
 www.villagedaserra.com.	IN	5m	CNAME	villagedaserra.com.
+
+;TXT records
+villagedaserra.com.	IN	3600	TXT	"p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAKNhQTY2Cdup1hDLjsPqiH/A1tl6x7MPaEYSsN7HimDeVW5jRQIQvJKjW9GsYSsJNY75W327G3uUXq2YdwJgOtw9k96obdrcbS8AVNOio1GkeC0I74/rf+wSwm9k1q7yrQIDAQAB"
+villagedaserra.com.	IN	3600	TXT	"v=spf1 include:_spf.locaweb.com.br ?all"
+
+;MX records
+villagedaserra.com.	IN	3600	MX	20	mx.a.locaweb.com.br.
+villagedaserra.com.	IN	3600	MX	10	mx.b.locaweb.com.br.
+villagedaserra.com.	IN	3600	MX	20	mx.jk.locaweb.com.br.
+villagedaserra.com.	IN	3600	MX	10	mx.core.locaweb.com.br.

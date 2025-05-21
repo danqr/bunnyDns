@@ -100,7 +100,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:45",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492264,
@@ -487,7 +488,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:51",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492261,
@@ -588,7 +590,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:45",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492278,
@@ -663,7 +666,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:10",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492292,
@@ -738,7 +742,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:28",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492285,
@@ -839,7 +844,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:20",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492248,
@@ -914,7 +920,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:30",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492301,
@@ -989,7 +996,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:38",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492240,
@@ -1064,7 +1072,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:19",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492377,
@@ -1975,7 +1984,8 @@
         "NameserversNextCheck": "2025-03-12T01:20:06",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492273,
@@ -2102,7 +2112,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:05",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492237,
@@ -2489,7 +2500,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:15",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492306,
@@ -2564,7 +2576,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:43",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492298,
@@ -2639,7 +2652,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:35",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492303,
@@ -2792,7 +2806,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:40",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492277,
@@ -2867,7 +2882,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:10",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492243,
@@ -3254,7 +3270,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:23",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492263,
@@ -3419,7 +3436,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:50",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492288,
@@ -3546,7 +3564,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:23",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492289,
@@ -3673,7 +3692,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:25",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492258,
@@ -3826,7 +3846,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:42",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492250,
@@ -3901,12 +3922,141 @@
         "NameserversNextCheck": "2025-03-11T20:10:32",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492296,
         "Domain": "hotelsaofrancisco.tur.br",
         "Records": [
+          {
+            "Id": 8687015,
+            "Type": 0,
+            "Ttl": 14400,
+            "Value": "192.185.213.73",
+            "Name": "autoconfig",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": {
+              "CountryCode": "US",
+              "Country": "United States",
+              "ASN": 19871,
+              "OrganizationName": "Network Solutions Hosting",
+              "City": null
+            },
+            "GeolocationInfo": null,
+            "MonitorStatus": 1,
+            "MonitorType": 1,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687016,
+            "Type": 0,
+            "Ttl": 14400,
+            "Value": "192.185.213.73",
+            "Name": "autodiscover",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": {
+              "CountryCode": "US",
+              "Country": "United States",
+              "ASN": 19871,
+              "OrganizationName": "Network Solutions Hosting",
+              "City": null
+            },
+            "GeolocationInfo": null,
+            "MonitorStatus": 1,
+            "MonitorType": 1,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687012,
+            "Type": 0,
+            "Ttl": 14400,
+            "Value": "192.185.213.73",
+            "Name": "cpcalendars",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": {
+              "CountryCode": "US",
+              "Country": "United States",
+              "ASN": 19871,
+              "OrganizationName": "Network Solutions Hosting",
+              "City": null
+            },
+            "GeolocationInfo": null,
+            "MonitorStatus": 1,
+            "MonitorType": 1,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687013,
+            "Type": 0,
+            "Ttl": 14400,
+            "Value": "192.185.213.73",
+            "Name": "cpcontacts",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": {
+              "CountryCode": "US",
+              "Country": "United States",
+              "ASN": 19871,
+              "OrganizationName": "Network Solutions Hosting",
+              "City": null
+            },
+            "GeolocationInfo": null,
+            "MonitorStatus": 1,
+            "MonitorType": 1,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
           {
             "Id": 8107800,
             "Type": 0,
@@ -3940,6 +4090,206 @@
             "Comment": null
           },
           {
+            "Id": 8687009,
+            "Type": 0,
+            "Ttl": 14400,
+            "Value": "127.0.0.1",
+            "Name": "localhost",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 2,
+            "MonitorType": 1,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687010,
+            "Type": 0,
+            "Ttl": 14400,
+            "Value": "192.185.213.73",
+            "Name": "mail",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": {
+              "CountryCode": "US",
+              "Country": "United States",
+              "ASN": 19871,
+              "OrganizationName": "Network Solutions Hosting",
+              "City": null
+            },
+            "GeolocationInfo": null,
+            "MonitorStatus": 1,
+            "MonitorType": 1,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687011,
+            "Type": 0,
+            "Ttl": 14400,
+            "Value": "192.185.213.73",
+            "Name": "webdisk",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": {
+              "CountryCode": "US",
+              "Country": "United States",
+              "ASN": 19871,
+              "OrganizationName": "Network Solutions Hosting",
+              "City": null
+            },
+            "GeolocationInfo": null,
+            "MonitorStatus": 1,
+            "MonitorType": 1,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687014,
+            "Type": 0,
+            "Ttl": 14400,
+            "Value": "192.185.213.73",
+            "Name": "whm",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": {
+              "CountryCode": "US",
+              "Country": "United States",
+              "ASN": 19871,
+              "OrganizationName": "Network Solutions Hosting",
+              "City": null
+            },
+            "GeolocationInfo": null,
+            "MonitorStatus": 1,
+            "MonitorType": 1,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687018,
+            "Type": 2,
+            "Ttl": 14400,
+            "Value": "hotelsaofrancisco.tur.br",
+            "Name": "cpanel",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687017,
+            "Type": 2,
+            "Ttl": 14400,
+            "Value": "hotelsaofrancisco.tur.br",
+            "Name": "ftp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687019,
+            "Type": 2,
+            "Ttl": 14400,
+            "Value": "mail.hotelsaofrancisco.tur.br",
+            "Name": "webmail",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
             "Id": 8107798,
             "Type": 2,
             "Ttl": 300,
@@ -3964,9 +4314,581 @@
             "SmartRoutingType": 0,
             "Disabled": false,
             "Comment": null
+          },
+          {
+            "Id": 8687033,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "jKkan1o9MEzNygroB9lzvGR5S7CFCtEcOFFJQU9hUF8",
+            "Name": "_acme-challenge.autodiscover",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687034,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "n5vScAeBWh7_1vLLPtWjXkyJ4ssRZysnAgwxhhqxb1Y",
+            "Name": "_acme-challenge.cpanel",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687031,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "cnsi6DzTj4jGAbrerCAtXBqWMLB-iQHWY8j9BZjz-so",
+            "Name": "_acme-challenge.cpcontacts",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687028,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "-4SxIENvm6xXt76NXqxsGwo9jmcDP9sAXvcx2wm4Ics",
+            "Name": "_acme-challenge",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687029,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "g98eJME1KtOrbi67LCY6iuSGkNc9lyLCxURLYwy9FOs",
+            "Name": "_acme-challenge.mail",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687032,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "mGOUR-_8mlujcIPDJkEVKLecjeaTLu8-WM3w-oUkx4Y",
+            "Name": "_acme-challenge.webdisk",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687030,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "EM42I7G_f16wWk_9Ab4Rgx6sboBbzxCJksguq9iqmy4",
+            "Name": "_acme-challenge.webmail",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687035,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "eA05oUYHuVrEk2xhuuX3h4-ULHIan6cTOsDUfG9knBU",
+            "Name": "_acme-challenge.www",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687023,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "path=/",
+            "Name": "_caldav._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687024,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "path=/",
+            "Name": "_caldavs._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687025,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "path=/",
+            "Name": "_carddav._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687026,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "path=/",
+            "Name": "_carddavs._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687036,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "_cpanel-dcv-test-record=Eqazq59unnV6UX_8mrtqghuBQQgKk3HWEfBs6QaoFcUmP24SzAtmx4H4aLgPmMZQ",
+            "Name": "_cpanel-dcv-test-record",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687027,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv+otHBtje2nCa7oZ6yAfFd6JchROiraV+vVXnAfeSFokaXTyBPBHmccEHCb+6RiOnjv78yA+rQokeDioUm2z/ceESuW5k3G9RhOrPO+HBH8/QYWqMjL/BtG7Qx07qcySct8kYOamU0F+378+EBudOCetjGFnXqGcen+/l3CMuB9dKfLWHKrIvwhP6V6FYuKOdxJnd6b1oGFInrJa5EefzU3FKrje5jj70nMhR6HsojIrd/yDYYyck9OggDQwnlKAn2MUCIHWbOA/MgLyZZ5cU/HtgWrp9TfPvORegDIU9Hbab3GutakiTFCBPwhAq+k7SiC/awZgv+mL7gwPG67CjwIDAQAB;",
+            "Name": "default._domainkey",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687021,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "v=spf1 a mx include:websitewelcome.com ~all",
+            "Name": "",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687022,
+            "Type": 3,
+            "Ttl": 14400,
+            "Value": "google-site-verification=SvNs6QeX-NVOjP9tFz5ydStcfMQrnKQfRcr-6pvBqlE",
+            "Name": "",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687020,
+            "Type": 4,
+            "Ttl": 14400,
+            "Value": "mail.hotelsaofrancisco.tur.br",
+            "Name": "",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687037,
+            "Type": 8,
+            "Ttl": 14400,
+            "Value": "cpanelemaildiscovery.cpanel.net",
+            "Name": "_autodiscover._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 443,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687038,
+            "Type": 8,
+            "Ttl": 14400,
+            "Value": "br82.hostgator.com.br",
+            "Name": "_caldav._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 2079,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687039,
+            "Type": 8,
+            "Ttl": 14400,
+            "Value": "br82.hostgator.com.br",
+            "Name": "_caldavs._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 2080,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687040,
+            "Type": 8,
+            "Ttl": 14400,
+            "Value": "br82.hostgator.com.br",
+            "Name": "_carddav._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 2079,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687041,
+            "Type": 8,
+            "Ttl": 14400,
+            "Value": "br82.hostgator.com.br",
+            "Name": "_carddavs._tcp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 2080,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
           }
         ],
-        "DateModified": "2025-03-11T20:06:34",
+        "DateModified": "2025-05-13T15:05:57",
         "DateCreated": "2025-03-11T20:06:33",
         "NameserversDetected": true,
         "CustomNameserversEnabled": false,
@@ -3976,7 +4898,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:33",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492290,
@@ -4415,7 +5338,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:26",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492267,
@@ -4490,7 +5414,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:55",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492274,
@@ -4565,7 +5490,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:06",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492299,
@@ -4640,7 +5566,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:36",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492300,
@@ -4715,7 +5642,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:37",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492351,
@@ -4790,7 +5718,8 @@
         "NameserversNextCheck": "2025-03-11T22:25:47",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492232,
@@ -4891,7 +5820,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:10",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492341,
@@ -5516,7 +6446,8 @@
         "NameserversNextCheck": "2025-03-11T22:06:00",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492275,
@@ -5855,7 +6786,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:07",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 251617,
@@ -6130,7 +7062,8 @@
         "NameserversNextCheck": "2024-08-18T22:24:28",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492283,
@@ -6517,7 +7450,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:17",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492251,
@@ -6592,7 +7526,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:33",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492294,
@@ -6693,7 +7628,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:30",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492238,
@@ -6768,7 +7704,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:16",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492247,
@@ -7155,7 +8092,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:29",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492293,
@@ -7230,7 +8168,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:29",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492307,
@@ -7305,7 +8244,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:44",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492282,
@@ -7380,7 +8320,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:15",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492231,
@@ -7455,7 +8396,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:08",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492233,
@@ -7738,7 +8680,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:11",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492236,
@@ -8125,7 +9068,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:14",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492291,
@@ -8200,7 +9144,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:27",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 500834,
@@ -8301,7 +9246,8 @@
         "NameserversNextCheck": "2025-03-27T18:31:44",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492279,
@@ -8376,7 +9322,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:12",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492255,
@@ -8451,7 +9398,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:38",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492272,
@@ -8526,7 +9474,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:03",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492304,
@@ -8601,7 +9550,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:41",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492246,
@@ -8988,7 +9938,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:27",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492269,
@@ -9375,7 +10326,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:57",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492235,
@@ -9450,7 +10402,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:13",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492287,
@@ -9551,7 +10504,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:22",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492239,
@@ -9626,7 +10580,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:18",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492286,
@@ -9727,7 +10682,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:21",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492297,
@@ -9828,7 +10784,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:34",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492208,
@@ -9903,7 +10860,8 @@
         "NameserversNextCheck": "2025-03-11T18:22:42",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492270,
@@ -9978,7 +10936,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:58",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492253,
@@ -10455,7 +11414,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:36",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492249,
@@ -10530,7 +11490,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:31",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492257,
@@ -10605,7 +11566,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:40",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492260,
@@ -10680,7 +11642,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:44",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492242,
@@ -10755,7 +11718,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:22",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492276,
@@ -10830,7 +11794,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:08",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492252,
@@ -10931,7 +11896,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:34",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492271,
@@ -11006,7 +11972,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:01",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492245,
@@ -11081,7 +12048,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:26",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492234,
@@ -11182,7 +12150,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:12",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492266,
@@ -11257,7 +12226,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:53",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492295,
@@ -11332,7 +12302,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:31",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492302,
@@ -11459,7 +12430,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:39",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492244,
@@ -11560,7 +12532,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:24",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492280,
@@ -11635,7 +12608,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:13",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492284,
@@ -11736,7 +12710,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:18",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492241,
@@ -11811,7 +12786,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:21",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492281,
@@ -12198,7 +13174,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:14",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492256,
@@ -12273,7 +13250,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:39",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492254,
@@ -12660,7 +13638,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:37",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492305,
@@ -12761,7 +13740,8 @@
         "NameserversNextCheck": "2025-03-11T20:11:42",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492268,
@@ -12836,7 +13816,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:56",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492265,
@@ -12911,7 +13892,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:52",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492230,
@@ -12950,6 +13932,422 @@
             "Comment": null
           },
           {
+            "Id": 8687909,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "autodiscover.email.locaweb.com.br",
+            "Name": "autodiscover",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687915,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "calendario.locaweb.com.br",
+            "Name": "calendario",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687911,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "villagedaserra.com",
+            "Name": "ftp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687908,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "gerenciador.locaweb.com.br",
+            "Name": "gerenciador",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687917,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "pop.villagedaserra.com",
+            "Name": "mail",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687922,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "ns1.locaweb.com.br",
+            "Name": "ns1",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687921,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "ns2.locaweb.com.br",
+            "Name": "ns2",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687920,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "ns3.locaweb.com.br",
+            "Name": "ns3",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687918,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "painel.locaweb.com.br",
+            "Name": "painel",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687919,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "pop.villagedaserra.com",
+            "Name": "pda",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687912,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "mail.b.locamail.com.br",
+            "Name": "pop",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687914,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "relatorio.locaweb.com.br",
+            "Name": "relatorio",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687907,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "relatorio.locaweb.com.br",
+            "Name": "relatorios",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687910,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "pop.villagedaserra.com",
+            "Name": "smtp",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687913,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "villagedaserra.com",
+            "Name": "wap",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687916,
+            "Type": 2,
+            "Ttl": 3600,
+            "Value": "webmail-seguro.com.br",
+            "Name": "webmail",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
             "Id": 8107661,
             "Type": 2,
             "Ttl": 300,
@@ -12974,6 +14372,162 @@
             "SmartRoutingType": 0,
             "Disabled": false,
             "Comment": null
+          },
+          {
+            "Id": 8687928,
+            "Type": 3,
+            "Ttl": 3600,
+            "Value": "p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAKNhQTY2Cdup1hDLjsPqiH/A1tl6x7MPaEYSsN7HimDeVW5jRQIQvJKjW9GsYSsJNY75W327G3uUXq2YdwJgOtw9k96obdrcbS8AVNOio1GkeC0I74/rf+wSwm9k1q7yrQIDAQAB",
+            "Name": "emailmkt._domainkey",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687927,
+            "Type": 3,
+            "Ttl": 3600,
+            "Value": "v=spf1 include:_spf.locaweb.com.br ?all",
+            "Name": "",
+            "Weight": 0,
+            "Priority": 0,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687923,
+            "Type": 4,
+            "Ttl": 3600,
+            "Value": "mx.a.locaweb.com.br",
+            "Name": "",
+            "Weight": 0,
+            "Priority": 20,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687924,
+            "Type": 4,
+            "Ttl": 3600,
+            "Value": "mx.b.locaweb.com.br",
+            "Name": "",
+            "Weight": 0,
+            "Priority": 10,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687925,
+            "Type": 4,
+            "Ttl": 3600,
+            "Value": "mx.jk.locaweb.com.br",
+            "Name": "",
+            "Weight": 0,
+            "Priority": 20,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
+          },
+          {
+            "Id": 8687926,
+            "Type": 4,
+            "Ttl": 3600,
+            "Value": "mx.core.locaweb.com.br",
+            "Name": "",
+            "Weight": 0,
+            "Priority": 10,
+            "Port": 0,
+            "Flags": 0,
+            "Tag": "",
+            "Accelerated": false,
+            "AcceleratedPullZoneId": 0,
+            "LinkName": "",
+            "IPGeoLocationInfo": null,
+            "GeolocationInfo": null,
+            "MonitorStatus": 0,
+            "MonitorType": 0,
+            "GeolocationLatitude": 0,
+            "GeolocationLongitude": 0,
+            "EnviromentalVariables": [],
+            "LatencyZone": "DE",
+            "SmartRoutingType": 0,
+            "Disabled": false,
+            "Comment": null
           }
         ],
         "DateModified": "2025-03-11T20:05:08",
@@ -12986,7 +14540,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:07",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492259,
@@ -13373,7 +14928,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:43",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       },
       {
         "Id": 492262,
@@ -13474,7 +15030,8 @@
         "NameserversNextCheck": "2025-03-11T20:10:46",
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
-        "LogAnonymizationType": 0
+        "LogAnonymizationType": 0,
+        "DnsSecEnabled": false
       }
     ],
     "CurrentPage": 1,
