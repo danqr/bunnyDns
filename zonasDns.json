@@ -101,7 +101,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492264,
@@ -489,7 +490,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492261,
@@ -591,7 +593,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492278,
@@ -667,7 +670,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492292,
@@ -743,7 +747,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492285,
@@ -845,7 +850,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492248,
@@ -921,7 +927,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492301,
@@ -997,7 +1004,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492240,
@@ -1073,7 +1081,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492377,
@@ -1985,7 +1994,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492273,
@@ -2113,7 +2123,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492237,
@@ -2501,7 +2512,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492306,
@@ -2577,7 +2589,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492298,
@@ -2653,7 +2666,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492303,
@@ -2807,7 +2821,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492277,
@@ -2883,7 +2898,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492243,
@@ -3271,7 +3287,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492263,
@@ -3437,7 +3454,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492288,
@@ -3565,7 +3583,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492289,
@@ -3693,7 +3712,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492258,
@@ -3847,7 +3867,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492250,
@@ -3923,7 +3944,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492296,
@@ -4899,7 +4921,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492290,
@@ -5339,7 +5362,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492267,
@@ -5415,7 +5439,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492274,
@@ -5491,7 +5516,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492299,
@@ -5567,7 +5593,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492300,
@@ -5643,7 +5670,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492351,
@@ -5719,7 +5747,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492232,
@@ -5821,7 +5850,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492341,
@@ -6447,7 +6477,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492275,
@@ -6787,7 +6818,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 251617,
@@ -7063,7 +7095,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492283,
@@ -7451,7 +7484,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492251,
@@ -7527,7 +7561,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492294,
@@ -7629,7 +7664,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492238,
@@ -7705,7 +7741,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492247,
@@ -8093,7 +8130,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492293,
@@ -8169,7 +8207,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492307,
@@ -8245,7 +8284,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492282,
@@ -8321,7 +8361,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492231,
@@ -8397,7 +8438,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492233,
@@ -8681,7 +8723,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492236,
@@ -9069,7 +9112,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492291,
@@ -9145,7 +9189,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 500834,
@@ -9247,7 +9292,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492279,
@@ -9323,7 +9369,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492255,
@@ -9399,7 +9446,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492272,
@@ -9475,7 +9523,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492304,
@@ -9551,7 +9600,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492246,
@@ -9939,7 +9989,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492269,
@@ -10327,7 +10378,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492235,
@@ -10403,7 +10455,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492287,
@@ -10505,7 +10558,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492239,
@@ -10581,7 +10635,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492286,
@@ -10683,7 +10738,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492297,
@@ -10785,7 +10841,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492208,
@@ -10861,7 +10918,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492270,
@@ -10937,7 +10995,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492253,
@@ -11415,7 +11474,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492249,
@@ -11491,7 +11551,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492257,
@@ -11567,7 +11628,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492260,
@@ -11643,7 +11705,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492242,
@@ -11719,7 +11782,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492276,
@@ -11795,7 +11859,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492252,
@@ -11897,7 +11962,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492271,
@@ -11973,7 +12039,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492245,
@@ -12049,7 +12116,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492234,
@@ -12151,7 +12219,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492266,
@@ -12227,7 +12296,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492295,
@@ -12303,7 +12373,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492302,
@@ -12431,7 +12502,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492244,
@@ -12533,7 +12605,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492280,
@@ -12609,7 +12682,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492284,
@@ -12711,7 +12785,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492241,
@@ -12787,7 +12862,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492281,
@@ -13175,7 +13251,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492256,
@@ -13251,7 +13328,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492254,
@@ -13639,7 +13717,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492305,
@@ -13741,7 +13820,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492268,
@@ -13817,7 +13897,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492265,
@@ -13893,7 +13974,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492230,
@@ -14541,7 +14623,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492259,
@@ -14929,7 +15012,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       },
       {
         "Id": 492262,
@@ -15031,7 +15115,8 @@
         "LoggingEnabled": false,
         "LoggingIPAnonymizationEnabled": true,
         "LogAnonymizationType": 0,
-        "DnsSecEnabled": false
+        "DnsSecEnabled": false,
+        "CertificateKeyType": 0
       }
     ],
     "CurrentPage": 1,
